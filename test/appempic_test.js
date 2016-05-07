@@ -10,7 +10,7 @@ describe('appempic', function () {
   });
 
   it('El apellido debe ser Lopez', function () {
-    appempic.getLastName().should.equal('Lopez');
+    appempic.getLastName().should.equal('Valencia');
   });
 
 });
