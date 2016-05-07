@@ -2,17 +2,17 @@
   "name": "appempic",
   "description": "The best module ever.",
   "version": "0.0.0",
-  "homepage": "https://github.com/jadiosa/appempic",
-  "bugs": "https://github.com/jadiosa/appempic/issues",
+  "homepage": "https://github.com/julianlopezv/ic-with-nodejs",
+  "bugs": "https://github.com/julianlopezv/ic-with-nodejs/issues",
   "license": "MIT",
   "main": "lib/appempic.js",
   "author": {
-    "name": "Jonathan Diosa",
-    "email": "jadiosa@gmail.com"
+    "name": "Julian Lopez",
+    "email": "julian.lopezv@udea.edu.co"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jadiosa/appempic"
+    "url": "https://github.com/julianlopezv/ic-with-nodejs"
   },
   "keywords": [],
   "dependencies": {
