@@ -1,4 +1,4 @@
-# appempic 
+# ic-with-nodejs
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
 
 The best module ever.
@@ -34,11 +34,11 @@ Copyright (c) 2016 Jonathan Diosa. Licensed under the MIT license.
 
 
 
-[npm-url]: https://npmjs.org/package/appempic
-[npm-image]: https://badge.fury.io/js/appempic.svg
-[travis-url]: https://travis-ci.org/jadiosa/appempic
-[travis-image]: https://travis-ci.org/jadiosa/appempic.svg?branch=master
-[daviddm-url]: https://david-dm.org/jadiosa/appempic.svg?theme=shields.io
-[daviddm-image]: https://david-dm.org/jadiosa/appempic
-[coveralls-url]: https://coveralls.io/r/jadiosa/appempic
-[coveralls-image]: https://coveralls.io/repos/jadiosa/appempic/badge.png
+[npm-url]: https://npmjs.org/package/ic-with-nodejs
+[npm-image]: https://badge.fury.io/js/ic-with-nodejs.svg
+[travis-url]: https://travis-ci.org/julianlopezv/ic-with-nodejs
+[travis-image]: https://travis-ci.org/julianlopezv/ic-with-nodejs.svg?branch=master
+[daviddm-url]: https://david-dm.org/julianlopezv/ic-with-nodejs.svg?theme=shields.io
+[daviddm-image]: https://david-dm.org/julianlopezv/ic-with-nodejs
+[coveralls-url]: https://coveralls.io/r/julianlopezv/ic-with-nodejs
+[coveralls-image]: https://coveralls.io/github/julianlopezv/ic-with-nodejs/badge.png
